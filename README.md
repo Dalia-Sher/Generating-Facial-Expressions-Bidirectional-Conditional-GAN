@@ -1,4 +1,4 @@
-# Generating-Facial-Expressions-Wasserstein-Conditional-BiGAN
+# Generating-Facial-Expressions-bidirectional-Conditional-WGAN
 Applying Wasserstein Conditional BiGAN model on the FER2013 dataset which consists of 34034 examples, 48x48 pixel grayscale images of faces, annotated with the emotion of facial expression as one of seven categories:
 Emotion 0 - Angry: 4953,
 Emotion 1 - Disgust: 547,
