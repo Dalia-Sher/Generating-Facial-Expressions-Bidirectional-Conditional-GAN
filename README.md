@@ -7,6 +7,10 @@ Emotion 3 - Happy: 8989,
 Emotion 4 - Sad: 6077,
 Emotion 5 - Surprised: 4002
 
+## People
+[Dalia Sherman](https://github.com/Dalia-Sher)  
+[Shir Mamia](https://github.com/ShirMamia)  
+
 ## Table of contents
 * [01.GAN_Version_1.ipynb](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/01.GAN_Version_1.ipynb)  
 * [02.GAN_Version_2.ipynb](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/02.GAN_Version_2.ipynb)  
