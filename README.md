@@ -24,3 +24,15 @@ Emotion 5 - Surprised: 4002
 * [10.Bidirectional Conditional WGAN](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/10.Bidirectional_Conditional_WGAN.ipynb)  
 * [11.Data Augmentation]  
 * [12.Final Model - BiCoGAN]
+
+## Report
+
+## References
+https://www.tensorflow.org/tutorials/generative/dcgan  
+https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/  
+https://github.com/eriklindernoren/Keras-GAN/blob/master/cgan/cgan.py  
+https://github.com/eriklindernoren/Keras-GAN/blob/master/bigan/bigan.py  
+https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/  
+https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan/wgan.py  
+https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan_gp/wgan_gp.py  
+Data Augmentation
