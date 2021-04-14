@@ -27,6 +27,8 @@ Emotion 5 - Surprised: 4002
 
 ## Report
 
+## Papers
+
 ## References
 https://www.tensorflow.org/tutorials/generative/dcgan  
 https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/  
