@@ -33,12 +33,18 @@ Emotion 5 - Surprised: 4002
 ## Papers
 
 ## References
-Reading the data: https://www.kaggle.com/abhijeetambekar/deep-learning-face-emotion  
-GAN: https://www.tensorflow.org/tutorials/generative/dcgan  
-conditional GAN: https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/  
-https://github.com/eriklindernoren/Keras-GAN/blob/master/cgan/cgan.py  
-Bidirectional GAN: https://github.com/eriklindernoren/Keras-GAN/blob/master/bigan/bigan.py  
+Reading the data: https://www.kaggle.com/abhijeetambekar/deep-learning-face-emotion
+
+GAN: https://www.tensorflow.org/tutorials/generative/dcgan 
+
+Conditional GAN: https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+https://github.com/eriklindernoren/Keras-GAN/blob/master/cgan/cgan.py
+
+Bidirectional GAN: https://github.com/eriklindernoren/Keras-GAN/blob/master/bigan/bigan.py
+
 Wasserstein GAN: https://machinelearningmastery.com/how-to-code-a-wasserstein-generative-adversarial-network-wgan-from-scratch/  
-https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan/wgan.py  
-Wasserstein GAN GP: https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan_gp/wgan_gp.py  
+https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan/wgan.py
+
+Wasserstein GAN GP: https://github.com/eriklindernoren/Keras-GAN/blob/master/wgan_gp/wgan_gp.py
+
 Data Augmentation:
