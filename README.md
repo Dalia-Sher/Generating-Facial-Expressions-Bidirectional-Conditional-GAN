@@ -9,7 +9,10 @@ Emotion 5 - Surprised: 4002
 
 ## People
 [Dalia Sherman](https://github.com/Dalia-Sher)  
-[Shir Mamia](https://github.com/ShirMamia)  
+[Shir Mamia](https://github.com/ShirMamia)
+
+## Data
+https://www.kaggle.com/ashishpatel26/facial-expression-recognitionferchallenge
 
 ## Table of contents
 * [1.GAN Version 1](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/01.GAN_Version_1.ipynb)  
@@ -30,6 +33,7 @@ Emotion 5 - Surprised: 4002
 ## Papers
 
 ## References
+https://www.kaggle.com/abhijeetambekar/deep-learning-face-emotion  
 https://www.tensorflow.org/tutorials/generative/dcgan  
 https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/  
 https://github.com/eriklindernoren/Keras-GAN/blob/master/cgan/cgan.py  
