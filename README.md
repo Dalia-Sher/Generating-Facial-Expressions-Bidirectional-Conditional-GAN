@@ -1,5 +1,5 @@
 # Generating Facial Expressions with Bidirectional Conditional GAN
-Applying Bidirectional Conditional WGAN model on the FER2013 dataset which consists of 35340 examples, 48x48 pixel grayscale images of faces, annotated with the emotion of facial expression as one of six categories:  
+Applying Bidirectional Conditional GAN model on the FER2013 dataset which consists of 35340 examples, 48x48 pixel grayscale images of faces, annotated with the emotion of facial expression as one of six categories:  
 Emotion 0 - Angry: 4953  
 Emotion 1 - Neutral: 6198  
 Emotion 2 - Fear: 5121  
