@@ -18,8 +18,8 @@ Emotion 5 - Surprised: 4002
 * [4.Conditional GAN_Version 2](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/04.Conditional_GAN_Version_2.ipynb)  
 * [5.Bidirectional GAN.ipynb](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/05.Bidirectional_GAN.ipynb)  
 * [6.Bidirectional Conditional GAN](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/06.Bidirectional_Conditional_GAN.ipynb)  
-* [7.Wasserstein GAN Version](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/07.Wasserstein_GAN_Version_1.ipynb)  
-* [8.Wasserstein GAN Version](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/08.Wasserstein_GAN_Version_2.ipynb)  
+* [7.Wasserstein GAN Version 1](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/07.Wasserstein_GAN_Version_1.ipynb)  
+* [8.Wasserstein GAN Version 2](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/08.Wasserstein_GAN_Version_2.ipynb)  
 * [9.Wasserstein GAN GP](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/09.Wasserstein_GAN_GP.ipynb)  
 * [10.Bidirectional Conditional WGAN](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/10.Bidirectional_Conditional_WGAN.ipynb)  
 * [11.Data Augmentation]  
