@@ -25,7 +25,7 @@ Emotion 5 - Surprised: 4002
 * [8.Wasserstein GAN Version 2](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/08.Wasserstein_GAN_Version_2.ipynb)  
 * [9.Wasserstein GAN GP](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/09.Wasserstein_GAN_GP.ipynb)  
 * [10.Bidirectional Conditional WGAN](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-WGAN/blob/main/10.Bidirectional_Conditional_WGAN.ipynb)  
-* [11.Data Augmentation]  
+* [11.Data Augmentation](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-GAN/blob/main/11.Data_Augmentation.ipynb)  
 * [12.Final Model - BiCoGAN]
 
 ## Report
