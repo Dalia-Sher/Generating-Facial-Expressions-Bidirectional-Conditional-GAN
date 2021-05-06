@@ -31,6 +31,12 @@ Emotion 5 - Surprised: 4002
 ## Report
 
 ## Papers
+* [Generating Realistic Facial Expressions through Conditional Cycle-Consistent Generative Adversarial Networks (CCycleGAN)](https://openreview.net/pdf?id=HJg6j3-oeB)
+* [Double Encoder Conditional GAN for Facial Expression Synthesis](https://ieeexplore.ieee.org/document/8483579)
+* [ADVERSARIAL FEATURE LEARNING](https://openreview.net/pdf?id=BJtNZAFgg)
+* [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
+* [Bidirectional Conditional Generative Adversarial Networks](https://arxiv.org/pdf/1711.07461.pdf)
+
 
 ## References
 * Reading the data: 
