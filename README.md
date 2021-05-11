@@ -28,7 +28,10 @@ Emotion 5 - Surprised: 4002
 * [11. Data Augmentation](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-GAN/blob/main/11.Data_Augmentation.ipynb)  
 * [12. Final Model - BiCoGAN](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-GAN/blob/main/12.Final_Model_BiCoGAN.ipynb)
 
+
 ## Report
+[Generating Realistic Facial Expressions with BiCoGAN.pdf](https://github.com/Dalia-Sher/Generating-Facial-Expressions-Bidirectional-Conditional-GAN/blob/main/Generating%20Realistic%20Facial%20Expressions%20with%20BiCoGAN.pdf)
+
 
 ## Papers
 * [Generating Realistic Facial Expressions through Conditional Cycle-Consistent Generative Adversarial Networks (CCycleGAN)](https://openreview.net/pdf?id=HJg6j3-oeB)
